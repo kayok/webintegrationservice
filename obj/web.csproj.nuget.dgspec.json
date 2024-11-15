@@ -1,0 +1,73 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/osudte/Desktop/webintegrationservice/web.csproj": {}
+  },
+  "projects": {
+    "/Users/osudte/Desktop/webintegrationservice/web.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/osudte/Desktop/webintegrationservice/web.csproj",
+        "projectName": "web",
+        "projectPath": "/Users/osudte/Desktop/webintegrationservice/web.csproj",
+        "packagesPath": "/Users/osudte/.nuget/packages/",
+        "outputPath": "/Users/osudte/Desktop/webintegrationservice/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/osudte/Desktop/webintegrationservice/NuGet.Config",
+          "/Users/osudte/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6"
+        ],
+        "sources": {
+          "/Applications/rti_connext_dds-6.1.2/lib/dotnet": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6",
+          "dependencies": {
+            "Rti.ConnextDds.Extra": {
+              "target": "Package",
+              "version": "[6.1.2, )"
+            },
+            "System.CommandLine": {
+              "target": "Package",
+              "version": "[2.0.0-beta1.21308.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.407/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

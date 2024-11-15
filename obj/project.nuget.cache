@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "VgfX8HOLy62l4enW8FcWFkkojpbp/7qVDSV0IiGB5t6N97kaGU0KGQpfba4Wt6ZtXXfelOUMm4DUPDyb1qXaoQ==",
+  "success": true,
+  "projectFilePath": "/Users/osudte/Desktop/webintegrationservice/web.csproj",
+  "expectedPackageFiles": [
+    "/Users/osudte/.nuget/packages/microsoft.bcl.hashcode/1.1.0/microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
+    "/Users/osudte/.nuget/packages/microsoft.csharp/4.4.1/microsoft.csharp.4.4.1.nupkg.sha512",
+    "/Users/osudte/.nuget/packages/rti.connextdds/6.1.2/rti.connextdds.6.1.2.nupkg.sha512",
+    "/Users/osudte/.nuget/packages/rti.connextdds.extra/6.1.2/rti.connextdds.extra.6.1.2.nupkg.sha512",
+    "/Users/osudte/.nuget/packages/rti.connextdds.native/6.1.2/rti.connextdds.native.6.1.2.nupkg.sha512",
+    "/Users/osudte/.nuget/packages/system.collections.immutable/1.7.1/system.collections.immutable.1.7.1.nupkg.sha512",
+    "/Users/osudte/.nuget/packages/system.commandline/2.0.0-beta1.21308.1/system.commandline.2.0.0-beta1.21308.1.nupkg.sha512",
+    "/Users/osudte/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/osudte/.nuget/packages/system.runtime.compilerservices.unsafe/4.7.1/system.runtime.compilerservices.unsafe.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
